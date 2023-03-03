@@ -1,6 +1,7 @@
 # list_view
 
 A new Flutter project.
+A record or text outline can be saved through a database and viewed in list or grid format.
 
 ## Getting Started
 
